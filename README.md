@@ -45,7 +45,6 @@ This dashboard helps users understand sales performance, compare regional result
  🖼️ Dashboard Preview
 Upload your dashboard screenshot to the repository and add it here:
 
-`![Power BI Sales Dashboard](dashboard.png)`
 
  🚀 How to Use
 1. Clone or download this repository.
