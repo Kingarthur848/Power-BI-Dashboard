@@ -1,7 +1,7 @@
  Power-BI-Dashboard
 
  📊 Power BI Sales Analytics Dashboard
-
+<img width="1378" height="768" alt="Screenshot 2026-10-15 152433" src="https://github.com/user-attachments/assets/e1d000d4-b50a-4137-9625-19e48a1dc309" />
  Overview
 This project presents an interactive Sales Analytics Dashboard built using Microsoft Power BI to analyze business performance across countries, sales channels, product categories, and time periods. It transforms sales data into meaningful insights through KPI cards and interactive visualizations.
 
@@ -58,3 +58,6 @@ Created as part of my Data Analytics learning journey to develop practical skill
 
  ⭐ Feedback
 Suggestions and feedback are welcome. Feel free to explore the project and share ideas for improvement.
+
+
+
